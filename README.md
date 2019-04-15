@@ -1,0 +1,2 @@
+# LegionPortal
+Game Portal
